@@ -1,0 +1,42 @@
+/* 
+    Created on : 23.4.2014, 20:36:37
+    Author     : Maxim
+*/
+
+div#martinus{
+/*  display: inline;*/
+}
+#martinus.full, #martinus.banner468, #martinus.banner468v2, #martinus.banner468white, #martinus.banner468whitenoprice {
+  width: 468px;
+  height: 60px;
+  display: inline;
+}
+
+#martinus.square, #martinus.banner300, #martinus.banner300v2, #martinus.banner300white, #martinus.banner300whitenoprice, #martinus.banner300nopricenotext {
+  width: 300px;
+  height: 300px;
+  display: inline;
+}
+
+#martinus.skyscraper, #martinus.banner160, #martinus.banner160v2, #martinus.banner160white, #martinus.banner160noprice{
+  width: 160px;
+  height: 600px;
+  display: inline;
+}
+  
+#martinus.m-center{
+   margin: 10px auto;
+   display: block !important;
+}
+
+#martinus.m-left{
+   float: left;
+   display: block !important;
+   margin: 10px;
+}
+
+#martinus.m-right{
+   float: right;
+   display: block !important;
+   margin: 10px;
+}
